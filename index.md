@@ -8,7 +8,7 @@ Therefore, while they are still a relatively new topic, conversational recommend
 By presenting the emerging and promising topic of conversational recommender systems, we aim to provide take-aways to practitioners to build their own systems. We also want to stimulate more ideas and discussions with audiences on core problems of this topic such as task formalization, dataset collection, algorithm development, and evaluation, with the ambition of facilitating the development of conversational recommender systems.
 
 ## Schedule
-Details to be confirmed.
+The SIGIR 2020 tutorials will be presented on July 26, 2020. Further details about the time zone and schedule are still to be confirmed.
 
 Time slot | Topics | Presenter | Material
 ------------ | ------------- | ------------- | -------------
