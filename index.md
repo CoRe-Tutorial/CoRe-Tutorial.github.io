@@ -1,4 +1,4 @@
-This is the site for the SIGIR 2020 tutorial on **Conversational Recommendation: Formulation, Methods, and Evaluation** by Wenqiang Lei, Xiangnan He, Maarten de Rijke, and Tat-Seng Chua.
+This is the site for the [SIGIR 2020](http://sigir.org/sigir2020/) tutorial on **Conversational Recommendation: Formulation, Methods, and Evaluation** by Wenqiang Lei, Xiangnan He, Maarten de Rijke, and Tat-Seng Chua.
 
 Content to be provided. This will include
 
