@@ -16,12 +16,15 @@ First time slot | First topic | First presenter | First chunk of slides
 Second time slot | Second topic | Second presenter | Second chunk of slides
 
 ## Materials
-Downloads will include
+Material made available for download will include
 
 - Slides -- All slides will be made publicly available.
 - Annotated bibliography -- An annotated compilation of references will list all works discussed in the tutorial and should provide a good basis for further study.
 - Code -- An annotated list of pointers to open source code and datasets for the work discussed in our tutorial will be shared with attendees of the tutorial.
 - Survey -- We are writing a survey on conversational recommendation; a complete draft will be shared with attendees of the tutorial.
+
+## Presenters
+Wenqiang Lei, Xiangnan He, Maarten de Rijke, and Tat-Seng Chua.
 
 ## Citation
 If you'd like to refer to the tutorial in your publications, please use the following:
@@ -35,6 +38,3 @@ Publisher = {ACM},
 Title = {Conversational Recommendation: Formulation, Methods, and Evaluation},
 Year = {2020}}
 ```
-
-## Presenters
-Wenqiang Lei, Xiangnan He, Maarten de Rijke, and Tat-Seng Chua.
