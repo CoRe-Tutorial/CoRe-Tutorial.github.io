@@ -6,7 +6,7 @@ To be provided.
 ## Schedule
 Details to be confirmed.
 
-## Downloads
+## Materials
 Downloads will include
 
 - Slides -- All slides will be made publicly available.
